@@ -17,7 +17,7 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
-      GIST_ID: "9342c730-635b-43cf-adfc-e255ce3d6461"
+      GIST_ID: ${{ secrets.WAKATIME_API_KEY }}
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: SHORT
