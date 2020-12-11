@@ -1,5 +1,5 @@
 
-<!-- ![](img/pdx.gif) -->
+![](img/pdx.gif)
 
 ### Hi there 👋
 
