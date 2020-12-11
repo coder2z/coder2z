@@ -38,8 +38,7 @@ jobs:
           mv ./waka ../ && cd .. && rm -rf waka-box-go/
       - name: Commit and push
         run: |-
-          export GIST_ID=23ef67b8e95d222f7cce6108ea97f5f6
-          ./waka
+          export GIST_ID=23ef67b8e95d222f7cce6108ea97f5f6 && ./waka
           git config --global user.email "myxy99@foxmail.com" && git config --global user.name "myxy99"
           git diff
           git add README.md && git commit -m ":memo: update profile" || exit 0
