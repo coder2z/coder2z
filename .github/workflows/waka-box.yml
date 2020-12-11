@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: "* * * * *"
+    - cron: "5 0 * * *"
 
 jobs:
   build:
@@ -17,7 +17,7 @@ jobs:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
       MARKDOWN_FILE: README.md
-      GIST_ID: ${{ secrets.WAKATIME_API_KEY }}
+      GIST_ID: 23ef67b8e95d222f7cce6108ea97f5f6
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
       GIST_TIMESTYLE: SHORT
