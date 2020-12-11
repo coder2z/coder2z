@@ -15,9 +15,9 @@
 - 😄 Pronouns: Yangon / 阿水 .
 
 
-<div style="width: 100%;">
-
-<div style="float:left;width: 50%;">
+<table>
+<tr>
+<td valign="top" width="50%">
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/23ef67b8e95d222f7cce6108ea97f5f6" target="_blank">📊 Weekly development breakdown</a>
@@ -29,12 +29,12 @@ Go 🕓 0s ███████████████████████
 
 [powered by waka-box-go](https://github.com/myxy99/waka-box-go)
 
-</div>
-<div style="float:right;width: 50%;">
+</td>
+
+<td valign="top" width="50%">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myxy99&show_icons=true)
 
-</div>
-
-</div>
-
+</td>
+</tr>
+</table>
