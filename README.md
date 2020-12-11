@@ -15,6 +15,8 @@
 - 😄 Pronouns: Yangon / 阿水 .
 
 
+<div style="width: 100%;">
+
 <div style="float:left;width: 50%;">
 
 <!-- waka-box start -->
@@ -31,6 +33,8 @@ Go 🕓 0s ███████████████████████
 <div style="float:right;width: 50%;">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myxy99&show_icons=true)
+
+</div>
 
 </div>
 
