@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning `algorithm`, `distributed system`, `micro service`.
 - 💬 Ask me about anything: [@Email to myxy99](mailto:myxy99@foxmail.com).
 - 📫 How to reach me: [@Telegram to Coder_Y](https://t.me/Coder_Y).
-- 😄 Pronouns: He / Him .
+- 😄 Pronouns: Yangon / 阿水 .
 
 
 <table>
