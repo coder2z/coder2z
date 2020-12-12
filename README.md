@@ -37,7 +37,7 @@ Other      🕓 1m    ░░░░░░░░░░░░░░░░░░░�
 
 <td valign="top" width="50%">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myxy99&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.myxy99.vercel.app/api?username=myxy99&show_icons=true)
 
 </td>
 </tr>
