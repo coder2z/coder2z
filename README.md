@@ -31,8 +31,6 @@ Other      🕓 1m    ░░░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
-[powered by waka-box-go](https://github.com/myxy99/waka-box-go)
-
 </td>
 
 <td valign="top" width="50%">
