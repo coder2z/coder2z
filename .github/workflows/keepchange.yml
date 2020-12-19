@@ -16,10 +16,9 @@ jobs:
 
       - name: Auto green
         run: |
-          git config --local user.email "myxy99@foxmail.com"
-          git config --local user.name "myxy99"
+          git config --global user.email "myxy99@foxmail.com" && git config --global user.name "myxy99"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           date +"%Y-%m-%d %H:%M:%S.%N" > keepchange.txt
-          git commit -am "a commit a day keeps your girlfriend away"
+          git commit -am ":rocket:update keepchange.txt"
           git push
