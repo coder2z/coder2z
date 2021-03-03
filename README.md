@@ -1,5 +1,5 @@
 
-![](img/pdx.gif)
+![](img/go.gif)
 
 ### Hi there 👋
 
