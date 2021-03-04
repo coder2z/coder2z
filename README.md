@@ -15,7 +15,7 @@
 - 😄 Pronouns: Yangon / 阿水 .
 
 
-<table>
+<table cellspacing="0" cellpadding="0" frame=void>
 <tr>
 <td valign="top" width="50%">
 
@@ -32,7 +32,6 @@
 <td>
 
 ![Anurag's github stats](https://github-readme-stats.myxy99.vercel.app/api?username=coder2m&show_icons=true)
-
 </td>
 </tr>
 </table>
