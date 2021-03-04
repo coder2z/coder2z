@@ -40,3 +40,4 @@ Protocol Buffer 🕓 39m    ▍░░░░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
+<img src="https://raw.githubusercontent.com/coder2m/coder2m/main/images/stat.svg" alt="Alternative Text"/>
