@@ -1,4 +1,4 @@
-name: Wakatime Charts
+name: Wakatime
 
 on:
   workflow_dispatch:
@@ -14,3 +14,5 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
+          BRANCH_NAME: "main"
+          COMMIT_MESSAGE: "✅"
