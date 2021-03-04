@@ -4,7 +4,7 @@ name: WakaTime
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: '* * * * *'
+    - cron: '0 2 * * *'
 
 jobs:
   update-readme:
