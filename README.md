@@ -33,11 +33,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.myxy99.vercel.app/api?username=coder2m&show_icons=true)
 </td>
-<td>
-
-![Anurag's github stats](/images/stat.svg)
-
-</td>
 </tr>
 </table>
 
