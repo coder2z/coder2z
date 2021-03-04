@@ -15,7 +15,7 @@
 - 😄 Pronouns: Yangon / 阿水 .
 
 
-<table cellspacing="0" cellpadding="0" frame=void>
+<table cellspacing="0" cellpadding="0">
 <tr>
 <td valign="top" width="50%">
 
