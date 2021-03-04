@@ -19,25 +19,21 @@
 <tr>
 <td valign="top" width="50%">
 
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/23ef67b8e95d222f7cce6108ea97f5f6" target="_blank">📊 Weekly development breakdown</a>
-```text
-Go              🕓 27h57m ████████████████▋░░░░░ 75.8%
-Other           🕓 4h39m  ██▊░░░░░░░░░░░░░░░░░░░ 12.7%
-YAML            🕓 2h33m  █▌░░░░░░░░░░░░░░░░░░░░  6.9%
-Markdown        🕓 47m    ▍░░░░░░░░░░░░░░░░░░░░░  2.2%
-Protocol Buffer 🕓 39m    ▍░░░░░░░░░░░░░░░░░░░░░  1.8%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+![Anurag's github stats](images/wakatime_weekly_project_stats.svg)
 
 </td>
-
 <td valign="top" width="50%">
+
+![Anurag's github stats](images/wakatime_weekly_language_stats.svg)
+
+</td>
+</tr>
+<tr>
+<td>
 
 ![Anurag's github stats](https://github-readme-stats.myxy99.vercel.app/api?username=coder2m&show_icons=true)
 
 </td>
 </tr>
 </table>
-<img src="https://raw.githubusercontent.com/coder2m/coder2m/main/images/stat.svg" alt="Alternative Text"/>
+
