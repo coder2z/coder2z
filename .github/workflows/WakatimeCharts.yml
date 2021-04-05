@@ -10,7 +10,7 @@ jobs:
     name: Update wakatime stats charts
     runs-on: ubuntu-latest
     steps:
-      - uses: divykj/wakatime-charts@master
+      - uses: coder2z/wakatime-charts@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           COMMIT_MESSAGE: "✅ images build success"
