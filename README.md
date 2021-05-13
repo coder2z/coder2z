@@ -11,7 +11,7 @@
 - 📫 How to reach me: [@Telegram to Coder_Y](https://t.me/Coder_Y).
 - 😄 Pronouns: Yangon / 阿水 .
 
-![](https://img.shields.io/badge/win10-Development-d0d1d4)
+![](https://img.shields.io/badge/MacOS-Development-d0d1d4)
 ![](https://img.shields.io/badge/Go-1.15-1cadd5)
 ![](https://img.shields.io/badge/php-7.1.3-9cf)
 ![](https://img.shields.io/badge/python-3.6-blue)
