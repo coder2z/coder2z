@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/python-3.6-blue)
 ![](https://visitor-badge.laobi.icu/badge?page_id=coder2z.coder2z)
 
-### My GitHub Contributions
+### My GitHub Contributions 🏷
 
 ![](https://raw.githubusercontent.com/coder2z/coder2z/main/assets/github-contribution-grid-snake.svg)
 
