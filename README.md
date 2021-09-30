@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/python-3.6-blue)
 ![](https://visitor-badge.laobi.icu/badge?page_id=coder2z.coder2z)
 
+![](https://raw.githubusercontent.com/coder2z/coder2z/main/assets/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/coder2z?tab=repositories">
 <table cellspacing="0" cellpadding="0">
 <tr>
