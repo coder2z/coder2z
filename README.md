@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently working for `Golang`.
 - 🌱 I’m currently learning `algorithm`, `distributed system`, `micro service`.
-- 💬 Ask me about anything: [@Email to coder2z](mailto:myxy99@foxmail.com).
-- 📫 How to reach me: [@Telegram to Coder_Y](https://t.me/Coder_Y).
+- 💬 Ask me about anything: [@Email to coder2z](mailto:coder2z@qq.com).
 - 😄 Pronouns: Yangon / 阿水 .
 
 ![](https://img.shields.io/badge/MacOS-Development-d0d1d4)
